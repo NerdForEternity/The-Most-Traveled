@@ -1,0 +1,96 @@
+<html>
+<head>
+
+<title>The Search for Steve Fossett </title>
+
+</head>
+
+<body alink=#000000 vlink=#2944AB link=#DA351A text=#000000>
+<center>
+	<table width=95%><tr><td>
+	<center>
+
+<!--TITLE-->
+<span style="font: 12pt verdana, helvetica, arial;">
+<b>
+The Search for Steve Fossett 
+</b>
+</span>
+<br>
+
+<!--BYLINE-->
+<span style="font: 10pt verdana, helvetica, arial;">
+by
+<br>
+<b>
+Lew Toulmin, Ph.D., F.R.G.S.
+</b>
+<br>
+Member, The Cosmos Club
+<br>
+Member, The Explorers Club
+<br><br>
+
+<!--MAIN TEXT-->
+<div align="justify">
+
+Steve Fossett was one of the greatest adventurers of all time.  He held 115 world records in airplanes, balloons, airships, gliders and sailboats.  His drive in life started early: he made Eagle Scout by age 13, after only 30 months in the Boy Scouts, and later became the head of the National Eagle Scout Association.  In college he swam to Alcatraz on a dare, and later swam the English Channel.  He was best known for being the first person to circle the globe non-stop alone in a balloon, and later in a plane.  
+<br><br>
+On September 3, 2007, at Barron Hilton’s Flying M Ranch in southwest Nevada, 63-year-old Steve Fossett got into one of the Ranch’s light planes for what he thought was going to be a casual solo “spin around the block.”  Instead, it became his biggest adventure, and his last. 
+<br><br>
+The plane and Steve just disappeared.  Within hours, the biggest aerial search in US history got under way, and continued for a month.  Our interviews and the minute-by-minute log book of the Air Force Rescue Coordination Center (AFRCC) reveal that searchers quickly focused on two crucial clues.  The first was a radar track developed by an expert in the Civil Air Patrol, which showed a plane flying east away from the Flying M Ranch, then curving north in a “Big Dipper” shape towards Hawthorne, Nevada.  The second clue was the testimony of a hand at the Flying M Ranch.  He was very familiar with the plane that Fossett borrowed, and testified that he had seen the plane twice: once headed south around 9 am, and once around 11 am, flying just 200 feet over his house, headed southeast.  Both clues were utterly convincing, and mesmerized public and private searchers for twelve months.  
+<br><br>
+Both clues were wrong.  
+<br><br>
+As in many major searches, the correct evidence was right there in front of the searchers.  But amidst hundreds of other clues, the correct clue, another radar track identified as a “possible” by the radar expert, was ignored.  This track was right along the famous John Muir Trail, mentioned proudly in Fossett’s autobiography as the site of his first solo adventure hike.  And since the radar clues, like almost all radar data in this country, were classified and were not released to the public, the pilot who actually made the “Big Dipper” radar track was not aware of the mess he had inadvertently created.  When our team tracked him down and interviewed him, a year after the accident, this pilot easily identified the unusual track he had made that day.  
+<br><br>
+The search encountered other major problems—problems the press never asked about and never reported.  Barron Hilton, an avid pilot, quickly assembled a private air force of planes and helicopters to search for Fossett.  The Civil Air Patrol, used to running the show, had never seen anything like this before.  A CAP official demanded that the Flying M team search team “de-conflict” the air space, to avoid possible collisions.  When asked where the Flying M team could search, they were told by the Nevada official that “you can get out of our state.”  It took over a week of precious search time before a sensible solution was worked out, and separate aerial grids were assigned to each of the many organizations involved.  
+<br><br>
+Incredibly, the Federal Aviation Administration destroyed the vital raw radar data for that day, so no careful re-analysis could ever be done.  
+<br><br>
+Despite the many problems, virtually no organization at any level undertook an “after action report” – a standard procedure in which one analyzes mistakes made and “lessons learned.”  If the accident happened tomorrow, the same mistakes would be made.
+<br><br>
+How did I get involved in all this?  I am a member of The Explorers Club Washington Group, and was at a party in December 2007 at the house of the former head of ECWG, Robert Hyman.  Robert was talking about how Steve, a member and Medalist of The Explorers Club, had disappeared a few months before, how the official search was over, and how someone from the Club should try to find him.  “Explorers don’t leave Explorers behind,” he said.  I agreed, and suggested that we have a meeting the next day to start planning a private search.  Robert brought in his wife, Deb Atwood, a member of the Cosmos Club and Society of Women Geographers, and an expert in Federal and Congressional liaison, and a friend, Bob Atwater, who had served as a security advisor to Steve Fossett.  Our team leadership was set. 
+<br><br>
+At first we thought that we would be a small technical climbing part of a larger effort that would begin again after the snow melted.  To our surprise, almost all public agencies discouraged our involvement, refused requests for documents, and took the attitude of “he’s not in our jurisdiction—we already searched there.”   Basically, they had stopped searching, and they apparently didn’t want anyone to find Steve in their jurisdiction and make them look bad.  One county SAR (search and rescue) official told me, only half jokingly, “Listen, if you find him, take him and plant him beyond that range of hills – that’s in the next county.”
+<br><br>
+We ended up having to research the case completely ourselves, to narrow down the search area from most of the Western states to a manageable few square miles.  My focus was on conducting over 50 interviews with possible eye-witnesses, searchers from the 2007 effort, persons who had flown with Steve, and experts in a dozen fields from ornithology (did a bird bring down the plane?) to cadaver dog forensics (could a cadaver dog find the body?) to aeronautics (could “density altitude,” in which the greater distance between air molecules on a hot day reduces lift by 10 to 20 percent, have played a factor?).  I worked on the case almost full time for nine months.  But my efforts were dwarfed by the contributions of our expert in search theory, who developed computerized analyses of where the plane might be.  Some of her scenarios and radar analyses were so complex that her laptop had to calculate for six hours before spitting out the answers.  NASA heard about our effort, called us up, and asked us to test their new terrain visualization software in its first operational use—we were honored to assist.  
+<br><br>
+Robert Hyman led the operational effort, and used his amazing network of contacts to recruit a team with three planes and 26 searchers, including seven pilots, an expert in search theory, a SAR Incident Commander with over 500 missions under his belt, some of the best mountain guides and climbers in the country, and experts in logistics and base camp management.  The out of pocket costs for the expedition were paid for by Robert and Deb, and close to half a million dollars worth of time was donated.  
+<br><br>
+The Search for Steve Fossett Expedition got under way on August 24, 2008 and lasted 19 days.  Robert’s brother John Hyman brought a huge horse trailer stuffed with ATVs and three tons of gear and food, all the way from Virginia to Nevada.  We delivered over 270 search days, focused on a high priority area near the ranch hand sighting, containing three large canyons and a giant lava flow.  We “leapfrogged” open areas, since they had been searched numerous times from the air, and ground-searched tough areas that were impossible to see from above.  We went on foot into areas where there were no footprints and absolutely no trace of humans.  Some of our team members searched on their hands and knees in deep brush for hours on end, unable to see fellow searchers just yards away.
+<br><br>
+We got permission to carry the flag of the World Organization of the Scout Movement, in honor of Steve’s lifelong support of Scouting.  We encountered three rattlesnakes, two bears, a herd of wild mustangs, bighorn sheep and lots of beautiful terrain.  At one point we found a small piece of blue cloth that we thought might be from the plane.  We saturated that area with ground searchers, but found nothing else there.  
+<br><br>
+As in many SAR operations, one of our major achievements was that we “cleared” several of the highest priority areas with a high “probability of detection” –  but not with certainty.  <br><br>
+
+We did not find the critical clue that led to discovery of the plane.  That honor fell to hiker Preston Morrow.  Eighteen days after the end of our Expedition, on September 29, 2008, east of the town of Mammoth Lakes, California and 66 miles from our search area, Preston and his dog Kona were climbing a very steep slope far from any trail.  Preston noticed something unusual in a bush: three pieces of identification with the name of Steve Fossett, and a five and ten $100 bills.  He picked it all up, and showed it to co-workers the next day.  They told him to go to the SAR team immediately.  The county SAR team searched the site, and nearby found the burnt fuselage of the Fossett plane and the engine.  Pieces of bone were found and sent for analysis.
+<br><br>
+What happened next has never been reported in the press.  The bones from that site turned out to be small animal bones.  Although the snow had started, our former Sheriff’s officer team member, who lived nearby, went up to the general area of the site and began searching on his own.  About a half a mile from the fuselage he found a gnawed tennis shoe and an animal den.  He didn’t touch anything, but got an accurate GPS location, and relayed the data to the county SAR team.  They went to the site, and found another sneaker and several larger pieces of bone.  Those bones were tested and found to contain the DNA of Steve Fossett.  We are proud that a member of our team helped to close the case. 
+<br><br>
+Unfortunately, some press organizations then proposed the sensationalist notion that Steve survived the crash, walked away, and was killed and eaten by bears.  In fact, the plane hit the rocks going over 100 miles per hour, burst into flame, crumpled into an unrecognizable tangle of girders, and the engine was thrown upslope over 300 feet.  No human could have survived such a catastrophic crash. 
+<br><br>
+The mystery still remains of what caused the crash.  There are two credible theories: engine failure, which perhaps led to Steve to try to land in a semi-open area on purpose; or pilot error, in which Steve perhaps misjudged the weather, a downdraft, or the density altitude.  
+<br><br>
+My sources say that, as in most general aviation accidents, the likely culprit was pilot error.  But we may never know for sure.
+<br><br>
+It was a privilege to serve as part of the Expedition, which attracted some of the finest people I have ever met.  One of Steve Fossett’s many talents was his incredible ability to inspire the best possible teams to work for him.  It is even more amazing that he could continue to do that, even after his death. 
+<br><br>
+
+#end#
+
+<!--END MAIN TEXT-->
+
+<br><br>
+<a href="#" onclick="self.close()">Close this window</a>
+
+</div>
+</span>
+
+	</center>
+	</td></tr>
+	</table>
+
+</center>
+</body>
+</html>

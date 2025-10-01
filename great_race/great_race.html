@@ -1,0 +1,158 @@
+<html>
+<head>
+
+<title>Great Race </title>
+
+<script type="text/Javascript"><!--
+/*
+ ______________________________________________________
+/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\
+|          Another JavaScript from Uncle Jim           |
+|                                                      |
+|   Feel free to copy, use and change this script as   |
+|        long as this part remains unchanged.          |
+|                                                      |
+|      Visit my website at http://www.jdstiles.com     |
+|           for more scripts like this one             |
+|                                                      |
+|                     Created: 1996                    |
+|              Last Updated: December, 2005            |
+\______________________________________________________/
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+*/
+var pictures = new Array (
+"gr_1.jpg",
+"gr_2.jpg",
+"gr_3.jpg",
+"gr_4.jpg",
+"gr_5.jpg",
+"gr_6.jpg",
+"gr_7.jpg",
+"gr_8.jpg",
+"gr_9.jpg",
+"gr_10.jpg",
+"gr_11.jpg",
+"gr_12.jpg",
+"gr_13.jpg",
+"gr_14.jpg",
+"gr_15.jpg",
+"gr_16.jpg",
+"gr_17.jpg",
+"gr_18.jpg",
+"gr_19.jpg",
+"gr_20.jpg",
+"gr_21.jpg",
+"gr_22.jpg",
+"gr_23.jpg",
+"gr_24.jpg",
+"gr_25.jpg",
+"gr_26.jpg",
+"gr_27.jpg",
+"gr_28.jpg",
+"gr_29.jpg",
+"gr_30.jpg",
+"gr_31.jpg",
+"gr_32.jpg",
+"gr_33.jpg",
+"gr_34.jpg",
+"gr_35.jpg",
+"gr_36.jpg",
+"gr_37.jpg",
+"gr_38.jpg",
+"gr_39.jpg",
+"gr_40.jpg",
+"gr_41.jpg",
+"gr_42.jpg",
+"gr_43.jpg",
+"gr_44.jpg",
+"gr_45.jpg",
+"gr_46.jpg",
+"gr_47.jpg",
+"gr_48.jpg",
+"gr_49.jpg",
+"gr_50.jpg",
+"gr_51.jpg",
+"gr_52.jpg",
+"gr_53.jpg",
+"gr_54.jpg",
+"gr_55.jpg",
+"gr_56.jpg",
+"gr_57.jpg",
+"gr_58.jpg",
+"gr_59.jpg",
+"gr_60.jpg",
+"gr_61.jpg",
+"gr_62.jpg",
+"gr_63.jpg",
+"gr_64.jpg",
+"gr_65.jpg",
+"gr_66.jpg",
+"gr_67.jpg",
+"gr_68.jpg"
+);
+var pictureNumber = 0;
+var totalNumber = pictures.length;
+
+ function previous(){
+  if (document.images){
+     if (pictureNumber > 0) pictureNumber--
+     else             
+     pictureNumber = totalNumber-1
+     document.images.slides.src  = pictures[pictureNumber]
+   }
+}
+ function next(){
+  if (document.images){
+     if (pictureNumber < totalNumber-1)  pictureNumber++
+     else                    
+     pictureNumber = 0
+     document.images.slides.src  = pictures[pictureNumber]
+   }
+}  
+
+
+//--></SCRIPT>
+
+
+
+</head>
+
+<body alink=#000000 vlink=#2944AB link=#DA351A text=#000000>
+<div align="center">
+	<table width=95% border=0><tr><td>
+	<div align="center">
+	<span style="font: 12pt verdana, helvetica, arial;">
+	<b>The Great Race</b>
+	</span>
+	</div>
+
+<br><br>
+
+<!--MAIN TEXT-->
+<div align="justify"><span style="font: 10pt verdana, helvetica, arial;">
+The Great Race is a fantastic time/speed/distance rally of antique and classic cars, that is more than 25 years old.  Most of the Great Race events were two week coast to coast affairs, and there were allied weekend events run in different parts of the country each year, also.  After a hiatus of several years, the GR started up again in 2011 in a one week format, running from Tennessee to Vermont.  We competed in our 1968 “Bullitt” Mustang in the July 2005 Great Race from the US Capitol grounds (the only motor event known to have started there) to Tacoma, Washington, covering 16 states in 15 days.  The heat (up to 100 degrees), the competition and the hours were intense, but it was like being a rock star!  The crowds that turned out in every town for morning, lunch, afternoon and evening “parc ferme” rolling car shows went wild over the amazing cars.  A $60,000 prize was awarded to the winning car – not to us!  We were fortunate to just stay on course and not get lost, thanks to Susan’s terrific navigating.  It was great to be part of it all.  This page presents some of the images of that terrific event.  For more details, see <a href="http://www.greatrace.com/" target="_blank">www.greatrace.com</a>, or read the extensive write-up in Lew’s book <i>The Most Traveled Man on Earth</i>.   
+</span></div>
+<!--END MAIN TEXT-->
+<br><br>
+<!--SLIDE SHOW-->
+
+<div align="center">
+<A HREF="javascript:previous()">Back</A>
+<IMG SRC="gr_1.jpg" NAME="slides" border=1>
+<A HREF="javascript:next()">Next</A>
+</div>
+
+
+<!--END SLIDE SHOW-->
+
+
+<br><br>
+<div align="center">
+<a href="#" onclick="self.close()">Close this window</a>
+</div>
+	</td></tr>
+	</table>
+
+</div>
+</body>
+</html>
